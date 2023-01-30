@@ -25,7 +25,7 @@ var server = http.createServer(function (req, res){
     res.write('<html><h1>This is the Gallery Page</h1><body><p></p></body></html>');
     res.end();
   }
-
+  else res.end('Invalid Request');
 
 });
 
