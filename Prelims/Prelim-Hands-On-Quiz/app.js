@@ -22,7 +22,7 @@ console.log();
 console.log('Gross Income: ' + grossIncome);
 console.log('Tax: ' + tax);
 console.log('SSS: ' + sss);
-console.log('Pag-ibig: ' + pagibig);
+console.log('Pag-ibig fund: ' + pagibig);
 console.log('PhilHealth: ' + philhealth);
 console.log('Total Deductions: ' + deduction);
 console.log('The net salary is ' + netSalary);
