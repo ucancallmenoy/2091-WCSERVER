@@ -10,4 +10,4 @@ var log = {
   }
 };
 
-module.exports = log
+module.exports = log;
