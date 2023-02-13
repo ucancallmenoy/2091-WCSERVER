@@ -6,5 +6,5 @@ app.get("/", function(request, response){
 });
 
 app.listen(3000, function(){
-    console.log('Server running at http://localhost:3000');
+    console.log('Server running at port 3000');
 });
